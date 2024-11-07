@@ -1,3 +1,3 @@
 # Insurance-Claim-Case-Study-
 
-This repository contains data cleaning and analysis of Insurance Claim Dataset using Python.
+This repository contains data cleaning ,data analysis and hypothesis testing of **Insurance Claim Dataset Using Python**.
